@@ -72,7 +72,7 @@ export const projects = [
     featured: true
   },
   {
-    title: "Code Maestro — Local AI Code Assistant",
+    title: "Local AI Code Assistant",
     description: "FastAPI + Next.js assistant with SSE streaming, multi-model backend and developer-grade UX.",
     link: "https://github.com/Charan071/Code-Assistant",
     featured: true
